@@ -1,0 +1,1 @@
+<h1>inside app.js</h1>
